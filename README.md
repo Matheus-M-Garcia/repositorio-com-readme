@@ -1,12 +1,12 @@
-#Aprendendo Readme
+# Aprendendo Readme
  Criando o primeiro repositorio com README ✨
 
  [<img src="./open-graph-logo.png" alt=" Imagem selecionada para teste do primeiro README">]
 
- ##Tecnologias utilizadas
+ ## Tecnologias utilizadas
  -Git
 
- ##Como Utilizar:
+ ## Como Utilizar:
  1 - Clone o projeto 
  ```
  git clone <Url do repositorio>
